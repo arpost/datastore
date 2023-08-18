@@ -10,20 +10,20 @@
     <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent-standard-deps</artifactId>
-        <version>3</version>
+        <version>4-Alpha-2-SNAPSHOT</version>
     </parent>
     <inceptionYear>2016</inceptionYear>
     
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/datastore.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/datastore.git</developerConnection>
-        <url>https://github.com/eurekaclinical/datastore.git</url>
+        <connection>scm:git:https://github.com/arpost/datastore.git</connection>
+        <developerConnection>scm:git:https://github.com/arpost/datastore.git</developerConnection>
+        <url>https://github.com/arpost/datastore.git</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/eurekaclinical/datastore/issues</url>
+        <url>https://github.com/arpost/datastore/issues</url>
     </issueManagement>
     
     <dependencies>
